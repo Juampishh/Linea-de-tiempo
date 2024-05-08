@@ -1,0 +1,14 @@
+C:\Users\Juan Pablo\Desktop\Facultad\Prog 3\Parcial1\Parcial1\bin\Debug\net8.0\Parcial1.exe
+C:\Users\Juan Pablo\Desktop\Facultad\Prog 3\Parcial1\Parcial1\bin\Debug\net8.0\Parcial1.deps.json
+C:\Users\Juan Pablo\Desktop\Facultad\Prog 3\Parcial1\Parcial1\bin\Debug\net8.0\Parcial1.runtimeconfig.json
+C:\Users\Juan Pablo\Desktop\Facultad\Prog 3\Parcial1\Parcial1\bin\Debug\net8.0\Parcial1.dll
+C:\Users\Juan Pablo\Desktop\Facultad\Prog 3\Parcial1\Parcial1\bin\Debug\net8.0\Parcial1.pdb
+C:\Users\Juan Pablo\Desktop\Facultad\Prog 3\Parcial1\Parcial1\obj\Debug\net8.0\Parcial1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\Desktop\Facultad\Prog 3\Parcial1\Parcial1\obj\Debug\net8.0\Parcial1.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Desktop\Facultad\Prog 3\Parcial1\Parcial1\obj\Debug\net8.0\Parcial1.AssemblyInfo.cs
+C:\Users\Juan Pablo\Desktop\Facultad\Prog 3\Parcial1\Parcial1\obj\Debug\net8.0\Parcial1.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\Facultad\Prog 3\Parcial1\Parcial1\obj\Debug\net8.0\Parcial1.dll
+C:\Users\Juan Pablo\Desktop\Facultad\Prog 3\Parcial1\Parcial1\obj\Debug\net8.0\refint\Parcial1.dll
+C:\Users\Juan Pablo\Desktop\Facultad\Prog 3\Parcial1\Parcial1\obj\Debug\net8.0\Parcial1.pdb
+C:\Users\Juan Pablo\Desktop\Facultad\Prog 3\Parcial1\Parcial1\obj\Debug\net8.0\Parcial1.genruntimeconfig.cache
+C:\Users\Juan Pablo\Desktop\Facultad\Prog 3\Parcial1\Parcial1\obj\Debug\net8.0\ref\Parcial1.dll
